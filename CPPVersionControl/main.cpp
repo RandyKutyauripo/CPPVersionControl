@@ -3,5 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World\n\n";
+	//print some text
+	cout << "Welcome!\n\n\n";
+
 }
