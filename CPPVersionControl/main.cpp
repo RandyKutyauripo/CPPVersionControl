@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Main Function\n\n";
+	cout << "Hello Wlorld\n\n";
 }
